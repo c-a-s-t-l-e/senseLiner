@@ -1,4 +1,4 @@
-# Senseline Modeling
+# senseLiner
 
 This repo is dedicated to building a senseline formatting text model. 
 
