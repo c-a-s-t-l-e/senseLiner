@@ -115,4 +115,4 @@ for book in "${books[@]}"; do
 done
 
 # Show notification
-echo 'notify-send "Download complete!"'
+echo "Download complete!"
