@@ -1,6 +1,6 @@
 ## How to Break English Texts By Using Senseline Formatting
 
-Below is a tqable of the three valid breaks in senseline formatting and the spaCy labels we need to know about 
+Below is a table of the three valid breaks in senseline formatting and the spaCy labels we need to know about to breakdown the texts:
 
 | **Rule Type**                    | **Trigger**                                                                       | **spaCy Dependencies/POS**                                    | **Formatting Action**                                      |
 | -------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------- |
