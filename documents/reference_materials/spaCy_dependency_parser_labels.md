@@ -1,5 +1,7 @@
 # spaCy's Parser Labels
 
+See https://spacy.io/models/en for the spaCy model that uses them.
+
 | Label       | Description                                                                 | Example Sentence                           | Token Example            |
 |-------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------------------|
 | ROOT        | Root of the sentence                                                       | She **ran** to the store.                  | ran                      |
