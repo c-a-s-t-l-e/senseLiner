@@ -1,4 +1,4 @@
-# spaCy Parts-of_Speech Label Tags
+# spaCy Parts-of-Speech Label Tags
 
 See https://spacy.io/models/en for the spaCy model that uses them.
 
